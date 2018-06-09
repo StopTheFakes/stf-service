@@ -1,0 +1,23 @@
+<svg id="Группа_1" data-name="Группа 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31" height="31" viewBox="0 0 31 31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2581d9;
+        stroke: #daddde;
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="374" y="639" width="14" height="11" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Прямоугольник_скругл._углы_1_копия_28" data-name="Прямоугольник, скругл. углы 1 копия 28" class="cls-1" x="0.5" y="0.5" width="30" height="30" rx="5" ry="5"/>
+  <path id="Forma_1" data-name="Forma 1" class="cls-2" d="M378.1,647.154l-2.647-2.566L374,646l3.494,3.387,0,0L378.136,650,388,640.438,386.516,639Z" transform="translate(-365.5 -628.5)"/>
+</svg>

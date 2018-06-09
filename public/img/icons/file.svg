@@ -1,0 +1,21 @@
+<svg id="Группа_27" data-name="Группа 27" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4f80d5;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="397.156" y="1157.5" width="18.688" height="15.16" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="Эллипс_4_копия" data-name="Эллипс 4 копия" class="cls-1" cx="17.5" cy="17.5" r="17.5"/>
+  <path id="Forma_1" data-name="Forma 1" class="cls-2" d="M401.522,1163.07a0.171,0.171,0,0,0-.169.13l-3.564,8.85v0.31c0,0.22-.015.31,0.176,0.31H411.89a0.789,0.789,0,0,0,.762-0.56l3.181-8.73v-0.31H401.522Zm-0.395-.62h12.84v-1.94a0.849,0.849,0,0,0-.85-0.84h-7.7l-1.556-2.17h-5.843a0.85,0.85,0,0,0-.85.85v12.93l3.2-8.27A0.787,0.787,0,0,1,401.127,1162.45Z" transform="translate(-389 -1148)"/>
+</svg>

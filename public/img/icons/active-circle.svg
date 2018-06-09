@@ -1,0 +1,20 @@
+<svg id="Группа_1" data-name="Группа 1" xmlns="http://www.w3.org/2000/svg" width="66" height="66" viewBox="0 0 66 66">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #42d25b;
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        fill: #52d669;
+      }
+    </style>
+  </defs>
+  <circle id="Эллипс_1_копия_2" data-name="Эллипс 1 копия 2" class="cls-1" cx="33" cy="33" r="32.5"/>
+  <circle id="Эллипс_1_копия_2-2" data-name="Эллипс 1 копия 2" class="cls-2" cx="33.5" cy="32.5" r="15"/>
+</svg>
